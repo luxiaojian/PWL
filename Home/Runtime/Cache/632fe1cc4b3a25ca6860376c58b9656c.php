@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="__PUBLIC__/css/jquery.fancybox.css">
 </head>
 <body>
+<div class="logo"></div>
 <div class="header">
     <div class="container">
         <div class="row">
@@ -110,7 +111,7 @@
 			    </div>
 			  </div>
 			  <div class="form-group">
-			    <label class="col-sm-2 control-label">商品分类</label>
+			    <label class="col-sm-2 control-label">分类</label>
 			    <div class="col-sm-3">
 			      <select class="form-control">
 					  <option>请选择</option>

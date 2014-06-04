@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="__PUBLIC__/css/jquery.fancybox.css">
 </head>
 <body>
+<div class="logo"></div>
 <div class="header">
     <div class="container">
         <div class="row">
